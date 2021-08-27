@@ -1,0 +1,37 @@
+.sweet-spot{
+    background-color: #f58ea0;
+    color: #dad8d8;
+}
+
+.topics{
+    background-color:#dad8d8;
+    color:#f112f1;
+}
+
+h3{
+    background-color:#ebf64d;
+}
+
+.subtopic-heading:hover{
+    color:#1ed7f0;
+}
+
+#partners{
+    font-weight: bold;
+}
+
+ li{
+    list-style: none;
+}
+
+.partner-list{
+    background-color:#1ed7f0;
+}
+
+.contact{
+    color: #1ed7f0;
+}
+
+.partner-list:hover{
+    background-color:#ebf64d;
+}
